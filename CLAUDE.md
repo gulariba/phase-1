@@ -1,9 +1,9 @@
 # Claude Code Instructions
 
-This project uses spec-driven development.
+This project uses spec-driven development concept.
 
 Workflow:
-1. Specifications in specs_history/
-2. Manual review & plan creation
+1. Specifications in specs_history/ (manual spec files)
+2. Plan generated based on specs
 3. Tasks implemented in src/main.py
-4. All Python code follows clean code principles
+4. Clean code principles followed
